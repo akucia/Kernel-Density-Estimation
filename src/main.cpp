@@ -2,7 +2,7 @@
  * main.cpp
  *
  *  Created on: 29 lis 2016
- *      Author: kuciu
+ *      Author: Artur Kucia
  */
 
 

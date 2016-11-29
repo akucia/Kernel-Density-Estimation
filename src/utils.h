@@ -2,7 +2,7 @@
  * utils.h
  *
  *  Created on: 29 lis 2016
- *      Author: kuciu
+ *      Author: Artur Kucia
  */
 
 #ifndef UTILS_H_
